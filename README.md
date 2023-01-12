@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirian-spec
+- 👋 Hi, I’m Mirian Akwara
 - 👀 I’m interested in DataScience and AI
 - 🌱 I’m currently learning Data Science and AI
 - 💞️ I’m looking to collaborate on data analytics projects
